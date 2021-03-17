@@ -1,5 +1,5 @@
 <p align="center">
-  Way uses delhimetro API to get the data about the route information.
+  Way uses delhimetro API to get the data about the metro route information.
 </p>
 <p align="center">
 Show some love 💜 and Star ⭐️ the Repository to support the project.
