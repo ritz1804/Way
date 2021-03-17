@@ -1,5 +1,5 @@
 <p align="center">
-  Covid-19-Tracker uses disease.sh API to get the realtime coronavirus cases statistics.
+  Way uses delhimetro API to get the data about the route information.
 </p>
 <p align="center">
 Show some love 💜 and Star ⭐️ the Repository to support the project.
